@@ -6,3 +6,19 @@ ToDo.txt
 **/node_modules/gregor_ssh-key.pub
 **/node_modules/gregor_ssh-key
 **/node_modules kopie/
+assets_composer
+assets_bower
+assets_npm
+composer.lock
+favicons/data.json
+favicons/favicons.html
+node_modules
+js/es5/footer/vendor/
+js/es6/vendor/*.*
+package-lock.json
+sass/base/_iconfont.scss
+base/_shapes.scss
+sass/fromjson/*.scss
+templates/generated/*.*
+webfont/testing
+!webfont/.gitkeep
