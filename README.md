@@ -1,6 +1,11 @@
 # development_uisge-beatha
 
-Testing cmsms_builder 2.0.x on old uisge-beatha website and cleaning up the code base!
+Testing cmsms_builder 2.0.x on the old uisge-beatha website and cleaning up the code base!
+
+Since I don't have the actual cmsms installation I can not test everything but the compiler runs fine (so far so good).
+
+
+@todo Needs some more cleaning especially on the ./src/sass, ./src/js files, old code comments, and backup's left in the source code by the original author.
 
 ```
 /* @todo clean up code examples or remove from README? */
