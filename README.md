@@ -1,5 +1,9 @@
 # development_uisge-beatha
-# development_uisge-beatha
+
+Testing cmsms_builder 2.0.x on old uisge-beatha website and cleaning up the code base!
+
+```
+/* @todo clean up code examples or remove from README? */
 /* custom stylsheets */
 
 html {
@@ -91,3 +95,4 @@ text {
 	font-size: 4vw;  /* vw makes the size responsive */
 	color:white;"
 }
+```
