@@ -16,13 +16,13 @@
     {
       "outputFileName": "parallax.js",
       "dependencies": [
-        "js/es5/rellax/rellax.js"
+        "node_modules/rellax/rellax.js"
       ]
     },
     {
       "outputFileName": "lozad.js",
       "dependencies": [
-        "js/es5/lozad/dist/lozad.js"
+        "node_modules/lozad/dist/lozad.js"
       ]
     },
     {
@@ -40,7 +40,7 @@
     {
       "outputFileName": "cookies-eu-banner.js",
       "dependencies": [
-        "js/es5/cookies-eu-banner/src/cookies-eu-banner.js"
+        "node_modules/cookies-eu-banner/dist/cookies-eu-banner.js"
       ]
     },
     {
@@ -52,7 +52,7 @@
     {
       "outputFileName": "dyscrollup.js",
       "dependencies": [
-        "js/es5/dyscrollupjs/src/js/dyscrollup.js"
+        "node_modules/dyscrollupjs/src/js/dyscrollup.js"
       ]
     },
     {
