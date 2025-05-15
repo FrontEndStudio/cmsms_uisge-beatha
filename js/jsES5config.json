@@ -28,13 +28,13 @@
     {
       "outputFileName": "defer.js",
       "dependencies": [
-        "js/es5/social/defer.js"
+        "es5/social/defer.js"
       ]
     },
     {
       "outputFileName": "scripts.js",
       "dependencies": [
-        "js/es5/scripts/*.js"
+        "es5/scripts/*.js"
       ]
     },
     {
@@ -46,7 +46,7 @@
     {
       "outputFileName": "footerSettings.js",
       "dependencies": [
-        "js/es5/scripts/footerScripts/footerSettings.js"
+        "es5/scripts/footerScripts/footerSettings.js"
       ]
     },
     {
