@@ -1,14 +1,11 @@
-import '@babel/polyfill';
+'use strict';
 
-import './import/jquery-version';
+// core-js polyfills are not needed in the webpack 5 setup
+// import 'core-js/stable';
+// import 'regenerator-runtime/runtime';
 
-const main = async () => {
-  console.log(window.location.pathname);
-};
-
-console.time('main');
-main();
-console.timeEnd('main');
+// import './public-path.js';
+import './main-modern.js';
 
 //
 // EOF

@@ -1,3 +1,5 @@
 {
-  "jquery": "jquery/dist/jquery.slim"
+  "jquery": "jquery/dist/jquery.slim",
+  "@@sass": "path.resolve(ASSETS_ROOT, 'src', 'sass')",
+  "@@css": "path.resolve(ASSETS_ROOT, 'dst', 'css')"
 }
