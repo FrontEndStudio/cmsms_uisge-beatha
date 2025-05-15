@@ -1,6 +1,10 @@
 {
+  "type": "module",
   "name": "cmsms_uisge-beatha",
+  "short_name": "uisge-beatha",
+  "lang": "nl-NL",
   "version": "2.0.0",
+  "builderversion": "2.0.0",
   "description": "Uisge Beatha CMSMS Theme",
   "main": "index.js",
   "scripts": {
